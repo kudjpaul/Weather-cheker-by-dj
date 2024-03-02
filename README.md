@@ -13,7 +13,7 @@ To get started with this application, ensure you have Node.js and npm installed 
 
 ### Configuration
 
-1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) and add it to a `.env` file in the root of the project:
+Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) and add it to a `.env` file in the root of the project:
 OPENWEATHER_API_KEY=your_api_key
 
 
